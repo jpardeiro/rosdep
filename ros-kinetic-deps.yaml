@@ -4,5 +4,5 @@ ompl:
   ubuntu: [libompl-dev]
 libccd:
   ubuntu: [libccd-dev]
-libfcl:
+fcl:
   ubuntu: [libfcl-dev]
