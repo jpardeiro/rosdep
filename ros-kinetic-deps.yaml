@@ -1,0 +1,6 @@
+python-serial:
+  ubuntu: [python-serial]
+ompl:
+  ubuntu: [libompl-dev]
+libccd:
+  ubuntu: [libccd-dev]
